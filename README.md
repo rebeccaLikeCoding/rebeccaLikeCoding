@@ -7,28 +7,20 @@ I'm passionate about coding, technology, and continuous learning. Whether it's b
 I'm currently learning about:
 - Advanced JavaScript techniques
 - React and Next.js frameworks
-- Cloud services like AWS and Google Cloud
+- Cloud services
+- How to plant green onions so I don't have to buy
 
 ## 💞️ Looking to Collaborate On
 I'm excited to collaborate on:
 - Open-source projects
 - Web development initiatives
 - Anything that involves creating impactful software solutions!
-
-## 📫 How to Reach Me
-Feel free to connect with me via:
-- **Email**: rebecca@example.com
-- **LinkedIn**: [Rebecca's LinkedIn](https://www.linkedin.com/in/rebeccalikecoding/)
-- **GitHub**: [@rebeccaLikeCoding](https://github.com/rebeccaLikeCoding)
+- I love teaching and sharing!
 
 ## 😄 Pronouns
 She/Her
 
 ## ⚡ Fun Fact
-I can solve a Rubik's cube in under a minute and I absolutely love experimenting with AI-powered tools and technologies!
+I can solve a Rubik's cube in under a minute
 
 ---
-<!---
-rebeccaLikeCoding/rebeccaLikeCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
